@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" modified="2021-03-23T00:48:04.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="S_ywz5u9hldzvZPl7XH3" version="14.5.0" type="github">
+  <diagram id="-eLBGhj5z0M7cY9pCWqs" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s0VtufktN33qbs5fill--1" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="390" as="sourcePoint" />
+            <mxPoint x="420" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-1" value="Funcionamiento de un procesador" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontStyle=1;fontSize=16;fontFamily=Verdana;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="204" y="40" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-3" value="Funcionamiento" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;fontStyle=1;fontSize=15;fillColor=#EEEEEE;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="206" y="300" width="424" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-7" value="" style="endArrow=none;html=1;fontSize=15;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="142" as="sourcePoint" />
+            <mxPoint x="420" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-2" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;b&gt;Componentes:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Núcleos&lt;/li&gt;&lt;li&gt;Caché&lt;/li&gt;&lt;li&gt;Controlador de memoria&lt;/li&gt;&lt;li&gt;Tarjeta gráfica&lt;/li&gt;&lt;li&gt;Otros elementos auxiliares&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=left;fillColor=#EEEEEE;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="320" y="140" width="196" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-8" value="" style="endArrow=none;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=0" parent="1" source="ytM2SalvpomqV5NXxg_m-2" target="ytM2SalvpomqV5NXxg_m-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="152" as="sourcePoint" />
+            <mxPoint x="421" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-11" value="El procesador es el “cerebro” del ordenador. Es el componente encargado de la ejecución de las instrucciones de los programas. Todos los ordenadores tienen al menos&lt;br&gt;un procesador&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="21" y="120" width="183" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ytM2SalvpomqV5NXxg_m-13" value="Está formado por un conjunto de registros que almacenen datos, una&lt;br&gt;unidad aritmético-lógica que realiza operaciones con ellos y una unidad de control&lt;br&gt;que se encarga de coordinar a todos los componentes." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="580" y="160" width="200" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--2" value="Recolecta información del código de memoria" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="52.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--3" value="Analiza qué es lo que tiene que hacer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--4" value="Ejecuta la operación" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--5" value="Muestra los resultados" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--6" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--7" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="420" as="sourcePoint" />
+            <mxPoint x="110" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--8" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="420" as="sourcePoint" />
+            <mxPoint x="310" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--9" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="420" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--10" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="703" y="420" as="sourcePoint" />
+            <mxPoint x="703" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--11" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#FFFFFF;strokeWidth=7;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="449.5" as="sourcePoint" />
+            <mxPoint x="240" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--12" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#FFFFFF;strokeWidth=7;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="449.5" as="sourcePoint" />
+            <mxPoint x="440" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--13" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#FFFFFF;strokeWidth=7;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="450" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--15" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="112" y="560" as="sourcePoint" />
+            <mxPoint x="112" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--16" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309.5" y="560" as="sourcePoint" />
+            <mxPoint x="309.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--17" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.5" y="560" as="sourcePoint" />
+            <mxPoint x="509.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--18" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="560" as="sourcePoint" />
+            <mxPoint x="720" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--19" value="&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;1. La unidad de interface con el bus lee la siguiente instrucción del programa y los&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;datos asociados, que le llegan a través del FSB.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;2. La unidad de decodificación traduce la instrucción y se la pasa a la unidad de&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;control para que decida qué hacer con ella&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;3. Si la instrucción necesita ejecutar alguna operación matemática, se la pasa a la&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;ALU&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;4. La ALU realiza la operación y deja el resultado en un registro&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;5. La unidad de control le pasa el resultado de la operación a la unidad de interfaz&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;con el bus y le da la orden de guardarla en la memoria&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;6. La unidad de interfaz con el bus escribe en la memoria RAM el resultado de la&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;ejecución de la instrucción a través del FSB&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="530" width="660" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--21" value="" style="endArrow=none;html=1;strokeColor=#FFFFFF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="860" as="sourcePoint" />
+            <mxPoint x="419.5" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="300" y="810" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s0VtufktN33qbs5fill--25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.blogs.es/560821/arquitectura-von-neumann/450_1000.jpg;" parent="1" vertex="1">
+          <mxGeometry x="319.75" y="829.19" width="222.5" height="211.62" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
